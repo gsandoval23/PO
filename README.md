@@ -1,4 +1,4 @@
-# PO 🚀 Portfolio – Project Manager - PO
+# PO 🚀 Portfolio – Project Manager 
 
 Bienvenido.
 Aquí encontrarás proyectos, entregables y aprendizajes desarrollados durante mi formación como Product Owner y en gestión de productos digitales.
