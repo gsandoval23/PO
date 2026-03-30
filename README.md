@@ -1,7 +1,8 @@
-# PO 🚀 Portfolio – Product Owner & UX/UI
+# PO 🚀 Portfolio – Project Manager - PO
 
 Bienvenido a mi repositorio de portafolio.
-Aquí encontrarás una recopilación de proyectos, entregables y aprendizajes desarrollados durante mi proceso de formación en Product Owner y UX/UI.
+Aquí encontrarás proyectos, entregables y aprendizajes desarrollados durante mi formación como Product Owner y en gestión de productos digitales.
 
-Este espacio refleja mi enfoque en la creación de productos digitales centrados en el usuario, alineados con objetivos de negocio y ejecutados bajo metodologías ágiles.
-Product Owner en formación enfocado en crear soluciones digitales centradas en el usuario, alineando estrategia de negocio, tecnología y experiencia. Desarrollo de Productos Digitales. 
+Mi enfoque está en diseñar soluciones centradas en el usuario que generen valor real para el negocio, combinando estrategia, tecnología y metodologías ágiles.
+
+Trabajo en la creación de productos digitales que transforman necesidades en soluciones concretas, priorizando impacto, eficiencia y experiencia de usuario.
