@@ -20,16 +20,16 @@ ________________________________________________________________________________
 Descripción :
 Proyecto enfocado en definir la visión de un producto digital para una empresa manufacturera en proceso de transformación digital, desde el rol de Product Owner. El objetivo fue alinear negocio, tecnología y experiencia de cliente, priorizando la generación de valor.
 
-Desafío
+Desafío :
 La organización presentaba procesos comerciales fragmentados, baja trazabilidad y pérdida de oportunidades. El principal reto fue priorizar correctamente en un contexto de presión por incorporar tecnologías avanzadas, evitando soluciones prematuras y enfocando la estrategia en impacto real.
 
-Solución
+Solución :
 Se propuso EvoluTech, una solución basada en la implementación de un CRM (Salesforce) integrado con Cloud (Azure), permitiendo centralizar información, mejorar la gestión comercial y habilitar decisiones basadas en datos, con un enfoque de bajo riesgo y alto impacto.
 
-Herramientas
+Herramientas :
 Salesforce (CRM) · Azure (Cloud) · Frameworks de Product Management · Definición de KPIs
 
-Impacto
+Impacto :
 +12% ingresos estimados
 ROI: 113%
 Payback: 5–6 meses
