@@ -7,6 +7,10 @@ Mi enfoque está en diseñar soluciones centradas en el usuario que generen valo
 
 Trabajo en la creación de productos digitales que transforman necesidades en soluciones concretas, priorizando impacto, eficiencia y experiencia de usuario.
 
+Gabriel Sandoval G. - Product Owner - Productos Digitales infogabrielsg@gmail.com reserved copyright 2026
+
+
+
 🔵 Caso de Estudio – EvoluTech
 
 Descripción
