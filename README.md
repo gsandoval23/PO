@@ -1,4 +1,4 @@
-# PO 🚀 Portfolio – Project Manager - Gabriel Sandoval - infogabrielsg@gmail.com
+# PO 🚀 Portfolio – Project Manager - Gabriel Sandoval - infogabrielsg@gmail.com - www.linkedin.com/in/gsandoval23
 Bienvenido !
 
 Aquí encontrarás proyectos, entregables y aprendizajes desarrollados durante mi formación como Product Owner y en gestión de productos digitales.
