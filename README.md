@@ -1,8 +1,13 @@
 🚀 PORTFOLIO – PRODUCT OWNER
-Casos de Estudio | Estrategia · UX · Negocio
+Estrategia · Agile · Negocio
 
-Bienvenido a mi repositorio de portafolio.
+Bienvenido !
+
 Aquí presento proyectos desarrollados como Product Owner, enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario y orientados a resultados.
+
+Cualquier duda o consulta estoy a disposición
+
+Gabriel Sandoval - mail : infogabrielsg@gmail.com - www.linkedin.com/in/gsandoval23 - Derechos Reservados 2026
 
 🔵 CASO 1: EVOLUTECH
 Transformación Digital en Manufacturing
