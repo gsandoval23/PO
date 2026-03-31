@@ -42,6 +42,10 @@ Las decisiones estratégicas correctas generan mayor impacto que la complejidad 
 Habilidades aplicadas :
 Visión de producto · Priorización estratégica · Análisis de negocio · Definición de métricas · Gestión de stakeholders
 
+Justificación :
+Seleccioné este proyecto porque representa de forma concreta el rol del Product Owner en contextos reales de negocio, destacando la importancia de priorizar valor, reducir riesgos y construir soluciones alineadas a resultados.
+
+
 
 ______________________________________________________________________________________________________________________________________________________________________________________
 
@@ -138,5 +142,3 @@ Seleccioné este proyecto porque muestra cómo un problema operativo complejo pu
 Me resultó especialmente interesante por la aplicación integral de metodologías como Design Thinking y Service Design, permitiendo diseñar una solución centrada en el usuario pero alineada con objetivos estratégicos del negocio.
 
 
-Justificación :
-Seleccioné este proyecto porque representa de forma concreta el rol del Product Owner en contextos reales de negocio, destacando la importancia de priorizar valor, reducir riesgos y construir soluciones alineadas a resultados.
