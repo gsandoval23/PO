@@ -7,6 +7,8 @@ Mi enfoque está en diseñar soluciones centradas en el usuario que generen valo
 
 Trabajo en la creación de productos digitales que transforman necesidades en soluciones concretas, priorizando impacto, eficiencia y experiencia de usuario.
 
+Para acceder a los casos puedes revisar el resumen en este readme de cada uno de ellos y en este mismo repositorio podras revisar el archivo desarrollo completo del caso.
+
 Cualquier duda, aporte o consulta mis datos de contacto :
 Gabriel Sandoval G. - Product Owner - Productos Digitales infogabrielsg@gmail.com - copyright 2026
 
