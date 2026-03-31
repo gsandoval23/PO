@@ -83,7 +83,59 @@ Validación de hipótesis · Lean Startup · Análisis de datos · Definición d
 Justificación :
 Seleccioné este proyecto porque refleja de forma clara la importancia de validar hipótesis antes de invertir en desarrollo, aplicando un enfoque Lean para reducir incertidumbre.
 
-Me resultó especialmente interesante por la aplicación práctica de experimentación, métricas y toma de decisiones basada en evidencia, elementos clave en la construcción de productos digitales exitosos.
+Me resultó especialmente interesante por la aplicación práctica de experimentación, métricas y toma de decisiones basada en evidencia, elementos clave en la construcción de productos 
+digitales exitosos.
+________________________________________________________________________________________________________________________________________________________________________________________
+
+🔵 Caso de Estudio – Rediseño de Viáticos Corporativos
+
+Descripción
+Proyecto enfocado en rediseñar el flujo completo de viáticos en TechLogistics S.A., utilizando Design Thinking para mejorar eficiencia operativa, experiencia del colaborador y control financiero .
+
+Desafío
+El proceso actual era manual (Excel + correos), con más de 450 solicitudes mensuales, generando:
+
+12% de errores en rendiciones
+Hasta 20 días de espera en reembolsos
+Baja visibilidad y alta fricción interna
+
+El reto fue transformar un proceso crítico, manteniendo control financiero y mejorando la experiencia del usuario.
+
+Solución
+Se diseñó un servicio digital integral basado en:
+
+App móvil para rendición en terreno
+Tarjeta corporativa digital (sin adelanto personal)
+IA para clasificación automática de gastos
+Aprobaciones por excepción
+Dashboard con trazabilidad en tiempo real
+
+La solución transforma el proceso de reactivo a preventivo, eliminando errores en origen .
+
+Herramientas
+Design Thinking · Journey Map · Service Blueprint · Matriz Impacto-Esfuerzo · Prototipo en Figma
+
+Impacto
+Reducción ciclo: 20 días → ≤ 5 días
+Error: 12% → < 2%
+SUS: 72 (sobre objetivo ≥70)
+Payback estimado: < 12 meses
+
+Mejora significativa en eficiencia, control y experiencia del usuario.
+
+Aprendizajes
+Los problemas operativos suelen ser problemas de diseño, no de ejecución.
+Automatizar sin rediseñar el proceso no genera impacto real.
+La experiencia del usuario es clave incluso en procesos internos.
+El control financiero puede coexistir con simplicidad y usabilidad.
+
+Habilidades aplicadas
+Service Design · Design Thinking · Definición de MVP · Priorización estratégica · Análisis de procesos · UX aplicado a negocio
+
+Justificación
+Seleccioné este proyecto porque muestra cómo un problema operativo complejo puede transformarse en una solución digital de alto impacto, combinando experiencia de usuario, eficiencia y control financiero.
+
+Me resultó especialmente interesante por la aplicación integral de metodologías como Design Thinking y Service Design, permitiendo diseñar una solución centrada en el usuario pero alineada con objetivos estratégicos del negocio.
 
 
 Justificación :
