@@ -6,7 +6,7 @@
 <p align="center"><b>Gabriel Sandoval</b></p>
 
 <p align="center">
-Este repositorio reúne proyectos desarrollados durante mi formación en tecnología y Product Ownership,
+Este repositorio reúne proyectos desarrollados durante mi formación en tecnología y Product Owner,
 enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario.
 </p>
 
