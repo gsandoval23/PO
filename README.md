@@ -1,4 +1,9 @@
 🚀 PORTFOLIO – PRODUCT OWNER
+Estrategia · UX · Negocio · Impacto
+
+Bienvenido a mi portafolio.
+Aquí presento proyectos donde abordo problemas reales de negocio y los transformo en soluciones digitales con foco en valor, usuario y resultados.
+🚀 PORTFOLIO – PRODUCT OWNER
 Estrategia · Agile · Negocio
 
 Bienvenido !
