@@ -1,122 +1,131 @@
-🚀 PORTFOLIO – PRODUCT OWNER
-Estrategia · UX · Negocio · Impacto
+<h1 align="center">🚀 PORTFOLIO – PRODUCT OWNER</h1>
+<h3 align="center">Estrategia · UX · Negocio · Impacto</h3>
 
-Bienvenido a mi portafolio.
-Aquí presento proyectos donde abordo problemas reales de negocio y los transformo en soluciones digitales con foco en valor, usuario y resultados.
-🚀 PORTFOLIO – PRODUCT OWNER
-Estrategia · Agile · Negocio
+<br>
 
-Bienvenido !
+<p align="center">
+Proyectos enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario y orientados a resultados.
+</p>
 
-Aquí presento proyectos desarrollados como Product Owner, enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario y orientados a resultados.
+<hr>
 
-Cualquier duda o consulta estoy a disposición
+<h1>🔵 CASO 1: EVOLUTECH</h1>
+<h2>Transformación Digital en Manufacturing</h2>
 
-Gabriel Sandoval - mail : infogabrielsg@gmail.com - www.linkedin.com/in/gsandoval23 - Derechos Reservados 2026
+<p><b>📌 Descripción</b><br>
+Definición de la visión de un producto digital alineando negocio, tecnología y experiencia de cliente.
+</p>
 
-🔵 CASO 1: EVOLUTECH
-Transformación Digital en Manufacturing
-📌 DESCRIPCIÓN
+<p><b>⚠️ Desafío</b><br>
+Procesos fragmentados, pérdida de oportunidades y baja trazabilidad. Priorización estratégica en contexto de transformación digital.
+</p>
 
-Proyecto enfocado en definir la visión de un producto digital para una empresa manufacturera en proceso de transformación digital, alineando negocio, tecnología y experiencia de cliente.
-
-⚠️ DESAFÍO
-
-Procesos fragmentados, pérdida de oportunidades y baja trazabilidad. El reto fue priorizar correctamente evitando sobreimplementación tecnológica.
-
-💡 SOLUCIÓN
-
+<p><b>💡 Solución</b><br>
 Implementación de CRM (Salesforce) + Cloud (Azure) para centralizar datos y mejorar la gestión comercial.
+</p>
 
-📊 IMPACTO
-+12% ingresos
-ROI: 113%
-Payback: 5–6 meses
-Mejora en conversión y satisfacción
-🧠 APRENDIZAJES
-La transformación digital comienza en el negocio
-La priorización es más importante que la tecnología
-El PO define valor
-🛠️ HABILIDADES
+<p><b>📊 Impacto</b></p>
+<ul>
+<li>+12% ingresos</li>
+<li>ROI: 113%</li>
+<li>Payback: 5–6 meses</li>
+<li>Mejora en conversión y satisfacción</li>
+</ul>
 
-Visión de producto · Priorización · KPIs · Stakeholders
+<p><b>🧠 Aprendizajes</b><br>
+La transformación digital comienza en el negocio. La priorización es más relevante que la tecnología.
+</p>
 
-🎯 JUSTIFICACIÓN
+<p><b>🛠️ Habilidades</b><br>
+Visión de producto · KPIs · Stakeholders · Priorización
+</p>
 
-Elegí este proyecto porque representa el rol estratégico del Product Owner en transformación digital, demostrando cómo decisiones correctas generan alto impacto con bajo riesgo.
+<p><b>🎯 Justificación</b><br>
+Proyecto que refleja el rol estratégico del Product Owner en transformación digital y toma de decisiones de alto impacto.
+</p>
 
-🔵 CASO 2: SNACKXPRESS
-Validación Lean de Producto Digital
-📌 DESCRIPCIÓN
+<hr>
 
-Validación de una nueva línea de negocio digital mediante micro-clases de snacks saludables con enfoque Lean Startup.
+<h1>🔵 CASO 2: SNACKXPRESS</h1>
+<h2>Validación Lean de Producto Digital</h2>
 
-⚠️ DESAFÍO
+<p><b>📌 Descripción</b><br>
+Validación de una nueva línea de negocio digital mediante micro-clases usando enfoque Lean Startup.
+</p>
 
-Caída del 15% en ventas y necesidad de diversificar con bajo riesgo.
+<p><b>⚠️ Desafío</b><br>
+Caída del 15% en ventas y necesidad de validar antes de invertir.
+</p>
 
-💡 SOLUCIÓN
-
+<p><b>💡 Solución</b><br>
 MVP con encuesta (Google Forms) para validar interés, comportamiento y pricing.
+</p>
 
-📊 IMPACTO
-+70% interés
-+70% prueba gratuita
-64% interés en menor precio
-7% disposición a pago
-🧠 APRENDIZAJES
-Validar antes de construir
-Interés ≠ pago
-El pricing define el éxito
-🛠️ HABILIDADES
+<p><b>📊 Impacto</b></p>
+<ul>
+<li>+70% interés</li>
+<li>+70% prueba gratuita</li>
+<li>64% interés en menor precio</li>
+<li>7% disposición a pago</li>
+</ul>
 
-Lean Startup · MVP · Data · UX research
+<p><b>🧠 Aprendizajes</b><br>
+Validar antes de construir. El interés no garantiza pago. El pricing es clave.
+</p>
 
-🎯 JUSTIFICACIÓN
+<p><b>🛠️ Habilidades</b><br>
+Lean Startup · MVP · Data · UX Research
+</p>
 
-Elegí este proyecto porque demuestra la importancia de validar hipótesis con datos reales antes de invertir.
+<p><b>🎯 Justificación</b><br>
+Proyecto enfocado en validación real de mercado y toma de decisiones basada en evidencia.
+</p>
 
-🔵 CASO 3: REDISEÑO DE VIÁTICOS
-Service Design + Design Thinking
-📌 DESCRIPCIÓN
+<hr>
 
-Rediseño del flujo de viáticos corporativos para mejorar eficiencia, experiencia y control financiero.
+<h1>🔵 CASO 3: REDISEÑO DE VIÁTICOS</h1>
+<h2>Service Design + Design Thinking</h2>
 
-⚠️ DESAFÍO
-450 solicitudes mensuales
-12% error
-20 días de espera
-Alta fricción y baja visibilidad.
-💡 SOLUCIÓN
+<p><b>📌 Descripción</b><br>
+Rediseño del flujo de viáticos para mejorar eficiencia, experiencia y control financiero.
+</p>
 
-Servicio digital con:
+<p><b>⚠️ Desafío</b><br>
+450 solicitudes mensuales, 12% error y hasta 20 días de espera. Alta fricción interna.
+</p>
 
-App móvil
-Tarjeta corporativa
-IA
-Aprobaciones por excepción
-Dashboard en tiempo real
-📊 IMPACTO
-20 días → ≤ 5 días
-12% → < 2% error
-SUS: 72
-Payback < 12 meses
-🧠 APRENDIZAJES
-Los problemas son de diseño
-Automatizar sin rediseñar no sirve
-UX aplica a procesos internos
-🛠️ HABILIDADES
+<p><b>💡 Solución</b><br>
+Servicio digital con app móvil, tarjeta corporativa, IA y automatización del proceso.
+</p>
 
+<p><b>📊 Impacto</b></p>
+<ul>
+<li>20 días → ≤ 5 días</li>
+<li>12% → < 2% error</li>
+<li>SUS: 72</li>
+<li>Payback < 12 meses</li>
+</ul>
+
+<p><b>🧠 Aprendizajes</b><br>
+Los problemas operativos son problemas de diseño. UX también aplica a procesos internos.
+</p>
+
+<p><b>🛠️ Habilidades</b><br>
 Design Thinking · Service Design · UX · Procesos
+</p>
 
-🎯 JUSTIFICACIÓN
+<p><b>🎯 Justificación</b><br>
+Proyecto que demuestra transformación de procesos críticos en soluciones digitales de alto impacto.
+</p>
 
-Elegí este proyecto porque demuestra cómo transformar un problema operativo en una solución digital de alto impacto.
+<hr>
 
-🔵 CONCLUSIÓN FINAL
+<h1>🔵 CONCLUSIÓN</h1>
 
-Este portafolio refleja mi enfoque como Product Owner: entender problemas reales, cuestionar supuestos y diseñar soluciones que generen valor.
+<p>
+Este portafolio refleja mi enfoque como Product Owner: entender problemas reales, priorizar correctamente y diseñar soluciones con impacto.
+</p>
 
-Trabajo conectando negocio, usuario y tecnología, priorizando impacto por sobre complejidad.
-
-Mi foco está en construir productos viables, útiles y alineados a resultados.
+<p>
+Trabajo conectando negocio, usuario y tecnología, construyendo productos viables, útiles y orientados a resultados.
+</p>
