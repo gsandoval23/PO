@@ -93,10 +93,10 @@ ________________________________________________________________________________
 
 🔵 Caso de Estudio – Rediseño de Viáticos Corporativos
 
-Descripción
+Descripción :
 Proyecto enfocado en rediseñar el flujo completo de viáticos en TechLogistics S.A., utilizando Design Thinking para mejorar eficiencia operativa, experiencia del colaborador y control financiero .
 
-Desafío
+Desafío :
 El proceso actual era manual (Excel + correos), con más de 450 solicitudes mensuales, generando:
 
 12% de errores en rendiciones
@@ -105,7 +105,7 @@ Baja visibilidad y alta fricción interna
 
 El reto fue transformar un proceso crítico, manteniendo control financiero y mejorando la experiencia del usuario.
 
-Solución
+Solución :
 Se diseñó un servicio digital integral basado en:
 
 App móvil para rendición en terreno
@@ -116,10 +116,10 @@ Dashboard con trazabilidad en tiempo real
 
 La solución transforma el proceso de reactivo a preventivo, eliminando errores en origen .
 
-Herramientas
+Herramientas :
 Design Thinking · Journey Map · Service Blueprint · Matriz Impacto-Esfuerzo · Prototipo en Figma
 
-Impacto
+Impacto :
 Reducción ciclo: 20 días → ≤ 5 días
 Error: 12% → < 2%
 SUS: 72 (sobre objetivo ≥70)
@@ -127,16 +127,16 @@ Payback estimado: < 12 meses
 
 Mejora significativa en eficiencia, control y experiencia del usuario.
 
-Aprendizajes
+Aprendizajes :
 Los problemas operativos suelen ser problemas de diseño, no de ejecución.
 Automatizar sin rediseñar el proceso no genera impacto real.
 La experiencia del usuario es clave incluso en procesos internos.
 El control financiero puede coexistir con simplicidad y usabilidad.
 
-Habilidades aplicadas
+Habilidades aplicadas :
 Service Design · Design Thinking · Definición de MVP · Priorización estratégica · Análisis de procesos · UX aplicado a negocio
 
-Justificación
+Justificación :
 Seleccioné este proyecto porque muestra cómo un problema operativo complejo puede transformarse en una solución digital de alto impacto, combinando experiencia de usuario, eficiencia y control financiero.
 
 Me resultó especialmente interesante por la aplicación integral de metodologías como Design Thinking y Service Design, permitiendo diseñar una solución centrada en el usuario pero alineada con objetivos estratégicos del negocio.
