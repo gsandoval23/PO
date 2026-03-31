@@ -1,13 +1,37 @@
-<h1 align="center">🚀 PORTFOLIO – PRODUCT OWNER</h1>
-<h3 align="center">Estrategia · UX · Negocio · Impacto</h3>
+<h1 align="center">🚀 Portfolio – Product Owner</h1>
+<h3 align="center">Casos de Estudio | Estrategia · UX · Negocio</h3>
 
 <br>
 
+<p align="center"><b>Gabriel Sandoval</b></p>
+
 <p align="center">
-Proyectos enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario y orientados a resultados.
+Este repositorio reúne proyectos desarrollados durante mi formación en tecnología y Product Ownership,
+enfocados en resolver problemas reales de negocio mediante productos digitales centrados en el usuario.
 </p>
 
+<p align="center">
+Cada caso refleja mi enfoque: entender el problema, priorizar con criterio y diseñar soluciones que generen valor real.
+</p>
+
+<br>
+
 <hr>
+
+<h3 align="center">📬 Contacto</h3>
+
+<p align="center">
+📧 infogabrielsg@gmail.com <br>
+🔗 <a href="https://www.linkedin.com/in/gsandoval23">linkedin.com/in/gsandoval23</a>
+</p>
+
+<br>
+
+<hr>
+
+<p align="center">
+© 2026 Gabriel Sandoval — Todos los derechos reservados
+</p>
 
 <h1>🔵 CASO 1: EVOLUTECH</h1>
 <h2>Transformación Digital en Manufacturing</h2>
