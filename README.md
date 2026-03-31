@@ -35,7 +35,7 @@ ROI: 113%
 Payback: 5–6 meses
 Mejora en conversión, trazabilidad y satisfacción de clientes
 
-Aprendizajes
+Aprendizajes :
 La transformación digital comienza en el negocio, no en la tecnología.
 El rol del Product Owner es priorizar valor y alinear stakeholders.
 Las decisiones estratégicas correctas generan mayor impacto que la complejidad técnica.
