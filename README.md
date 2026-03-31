@@ -10,7 +10,7 @@ Trabajo en la creación de productos digitales que transforman necesidades en so
 Cualquier duda, aporte o consulta mis datos de contacto :
 Gabriel Sandoval G. - Product Owner - Productos Digitales infogabrielsg@gmail.com - copyright 2026
 
-command space 1
+_________________________________________________________________________________________________________________________________________________________________
 
 
 🔵 Caso de Estudio – EvoluTech
