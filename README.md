@@ -40,7 +40,7 @@ La transformación digital comienza en el negocio, no en la tecnología.
 El rol del Product Owner es priorizar valor y alinear stakeholders.
 Las decisiones estratégicas correctas generan mayor impacto que la complejidad técnica.
 
-Habilidades aplicadas
+Habilidades aplicadas :
 Visión de producto · Priorización estratégica · Análisis de negocio · Definición de métricas · Gestión de stakeholders
 
 Justificación :
