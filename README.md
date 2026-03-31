@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 🔵 Caso de Estudio – EvoluTech
 
-Descripción
+Descripción :
 Proyecto enfocado en definir la visión de un producto digital para una empresa manufacturera en proceso de transformación digital, desde el rol de Product Owner. El objetivo fue alinear negocio, tecnología y experiencia de cliente, priorizando la generación de valor.
 
 Desafío
